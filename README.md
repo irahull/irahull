@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAhul, a Mern Stack Developer.
+- 👋 Hi, I’m @RAhul, a Frontend Developer.
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently exploring Mern Stack
 - 📫 How to reach me irahull@outlook.com
